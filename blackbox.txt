@@ -1,0 +1,27 @@
+1. Static Testing vs Dynamic Testing
+	+ Static testing check the test object itself "in itself"
+	  -Artefacts of the development process, e.g. informal texts, models, formal texts
+	   ,program code
+	   
+	   
+    + Dynamic testing check running software
+	+ So the test object will be executed on a processor in a dynamic testing
+		- Providing of input values
+		- Observing the results
+		
+
+2. a. Dynamic testing
+	+ Testing that involves the execution of the software of the component or system
+	
+   b. Test basis
+	+ All documents from which the requirements of a component or system can be
+	  inferred. The documentation on which test cases are based.
+	  
+   c. Test condition
+    + An item or event e.g., a function, transaction, feature, quality attribute or 
+	  structural element of a component or system that could be verfied by one or
+	  more test cases.
+	  
+	  
+   d. Test design specification
+	+ 
